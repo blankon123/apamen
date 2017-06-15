@@ -4,9 +4,7 @@ Web template yang memudahkan penerimaan dokumen survey BPS, Menggunakan Framewor
 ## Installation
 1. Import SQL
 2. Letakkan di folder web server, default XAMPP di Windows 'c://xampp/htdocs/'
-3. Akses
-4. Push to the branch: `git push origin my-new-feature`
-5. Submit a pull request :D
+3. Akses 'localhost/apamen/web'
 
 ## Usage
 Akses melalui 'localhost'
